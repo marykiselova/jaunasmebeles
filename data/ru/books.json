@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "name": "Одинарная книжная тёмная",
+        "description": "Цвет: wenge",
+        "size": "Размер: 73 cm x 28 cm x 24 cm",
+        "price": "15 EUR",
+        "photoURL" : "photo/one2.jpg"
+      },
+      {
+        "name": "Двойная книжная светлая",
+        "description": "Цвет: светлый дуб",
+        "size": "Размер: 73 cm x 56 cm x 24 cm",
+        "price": "23 EUR",
+        "photoURL" : "photo/two1.jpg"
+      },
+      {
+        "name": "Тройная книжная тёмная",
+        "description": "Цвет: чёрная",
+        "size": "Размер: 73 cm x 84 cm x 24 cm",
+        "price": "32 EUR",
+        "photoURL" : "photo/three1.jpg"
+      }
+  ]
+}
